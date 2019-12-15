@@ -18,7 +18,7 @@ public class Main{
         System.out.println(myNovel.toString()); 
         //Sets a new color and a new title to the same object          
         myNovel.setColor("Red");
-        myNovel.setTitle("Parry Hotter");
+        myNovel.setTitle("doof");
         //Sets a new number of pages to the same object
         myNovel.setNumPages(390); 
         //Prints the same object, but appears as a different novel
